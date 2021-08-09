@@ -1,18 +1,75 @@
-# picco_login_ui
 
-A new Flutter project.
+# Picco - Flutter Login UI
 
-## Getting Started
+A modern Login UI made with Flutter. It has Welcome Page, Login Page and Sign Up page.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Screenshots
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+![example](https://user-images.githubusercontent.com/51540772/128777853-43cd96a0-4783-437f-962e-ba5558d12cf8.png)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# flutter_picco_login_ui
-# flutter_picco_login_ui
+  ## Color Reference
+
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Primary Color | #2693F4 |
+| White Color | #ffffff |
+| Grey Color | #595959 |
+| Background Color | #0C0B0C |
+| Input Background Color | #23262B |
+| Hint Text Color | #777777 |
+| Title Text Color | #14213F |
+
+## Details
+
+- Input field validation
+- Null-Safety enabled
+- Readable and Reusable code
+
+  
+## Deployment
+
+To deploy this project run
+
+```bash
+  flutter run
+```
+
+  
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/estermabel/flutter_picco_login_ui.git
+```
+
+Go to the project directory
+
+```bash
+  cd flutter_picco_login_ui
+```
+
+Install dependencies
+
+```bash
+  flutter pub get
+```
+
+Run the project
+
+```bash
+  flutter run
+```
+
+  
+## Authors
+
+- [@estermabel](https://www.github.com/estermabel)
+
+  
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
+  
